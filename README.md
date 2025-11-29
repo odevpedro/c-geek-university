@@ -3,6 +3,8 @@ Material baseado no curso da Geek University
 
 Este repositório contém anotações, exercícios e resumos organizados a partir da estrutura completa do curso **Programação em C Essencial**, abordando desde os fundamentos da linguagem até temas intermediários como ponteiros, structs, alocação dinâmica de memória e estruturas de dados.
 
+
+![Mapa mental do curso de C](curso.png)
 ---
 
 ## Seção 1 – Apresentação  
